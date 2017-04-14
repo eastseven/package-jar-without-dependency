@@ -1,6 +1,6 @@
 # Spring Boot Package
 
-*[原文]()*
+*[原文](http://eastseven.cn/archives/60)*
 
 ### 1. 使用```spring-boot-maven-plugin```打包
 
